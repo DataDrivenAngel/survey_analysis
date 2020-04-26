@@ -1,0 +1,7 @@
+name: survey-environment
+channels:
+  - conda-forge
+dependencies:
+  - seaborn
+  - matplotlib
+  - pandas
